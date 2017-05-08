@@ -1,6 +1,21 @@
 
 # Classification and Auto-Tagging of Stack Exchange Questions
 
+In this project, I tested a suite of machine learning and NLP techniques to learn
+patterns from Stack Overflow posts.
+
+- Word Clouds and POS tag analysis.
+- Document vectorization (bag of words, tfidf, word2vec)
+- Manifold visualization with t-sne
+- Document classification
+  - Multinomial Naive Bayes
+  - Random Forest (achieved an f1 score of 0.999848 on the holdout test set)
+  - Logistic Regression
+  - Support Vector Machines
+  - Gradient Boosted Trees
+  - AdaBoost
+- Topic Modeling with LDA
+
 
 **[Problem posed by Kaggle](https://www.kaggle.com/c/transfer-learning-on-stack-exchange-tags):** Predict tags from models trained on unrelated topics.
 
