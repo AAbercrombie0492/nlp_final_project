@@ -10,8 +10,7 @@
 
 ## Breakdown of the project
 
-<br>
-![](images/breakdown.png)
+![project_breakdown](images/breakdown.png)
 
 ## Read the notebooks in the following order:
 
@@ -22,5 +21,4 @@
 
 ## How the modules in the code folder relate to each other.
 
-<br>
-![](images/code_hierarchy.png)
+![project_breakdown](images/code_hierarchy.png)
